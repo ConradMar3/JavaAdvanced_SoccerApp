@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaAdvanced_SoccerApp.iml" filepath="$PROJECT_DIR$/.idea/JavaAdvanced_SoccerApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Socccer/Socccer.iml" filepath="$PROJECT_DIR$/Socccer/Socccer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp.V2/SoccerApp.V2.iml" filepath="$PROJECT_DIR$/SoccerApp.V2/SoccerApp.V2.iml" />
     </modules>
   </component>
 </project>
