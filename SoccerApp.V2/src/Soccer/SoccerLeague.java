@@ -1,11 +1,11 @@
-package soccer;
+package Soccer;
 
 import java.io.*;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 
-/** The type Soccer league. */
+
 public class SoccerLeague {
 
   /** The Score board. */
@@ -28,6 +28,7 @@ public class SoccerLeague {
     System.out.println("\nThats the end of the league");
 
     System.out.println("\n" + scoreBoard.toString());
+
 
     scoreBoard.entrySet().stream()
         .sorted(Comparator.comparing(Map.Entry::getValue, Comparator.reverseOrder()))

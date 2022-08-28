@@ -1,5 +1,7 @@
-package soccer;
+package Soccer;
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class UserInput {
@@ -45,5 +47,18 @@ public class UserInput {
     String x;
     x = input.nextLine();
     return x;
+  }
+
+  static char getChar() {
+    char c;
+    InputStreamReader eisodosString = new InputStreamReader(System.in);
+    BufferedReader br = new BufferedReader(eisodosString);
+    try {
+      c = (char) br.read();
+
+      return c;
+    } catch (Exception e) {
+      return (char) -1;
+    }
   }
 }

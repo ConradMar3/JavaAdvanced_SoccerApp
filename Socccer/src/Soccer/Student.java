@@ -1,4 +1,4 @@
-package soccer;
+package Soccer;
 
 public class Student {
   // PRIVATE INSTANCE FIELDS

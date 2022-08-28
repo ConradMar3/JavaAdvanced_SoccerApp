@@ -1,6 +1,6 @@
 The Problem
 =========================================================
-Create a Java application that will calculate the ranking table for a soccer league. A typical scoreboard will look like this at the end of the soccer season: The output should be ordered from most to least points:
+Create a Java application that will calculate the ranking table for a Soccer league. A typical scoreboard will look like this at the end of the Soccer season: The output should be ordered from most to least points:
 
 
 1. Tarantulas2

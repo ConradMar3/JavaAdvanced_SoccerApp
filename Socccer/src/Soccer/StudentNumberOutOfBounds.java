@@ -1,4 +1,4 @@
-package soccer;
+package Soccer;
 
 public class StudentNumberOutOfBounds extends RuntimeException {
   public StudentNumberOutOfBounds(String ex) {
