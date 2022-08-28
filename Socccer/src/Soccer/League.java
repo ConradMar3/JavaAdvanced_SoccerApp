@@ -21,11 +21,11 @@ public class League {
         teamList[i] = input.readLine();
       }
 
-      System.out.println("-------------------------------------------------");
+      System.out.print("-------------------------------------------------");
 
-      // representing 2D array of team score board where each scoreBoard is of type
-      //     0      1      2      3       4
-      // [played] [win] [draw] [loose] [points]
+      /* representing 2D array of team score board where each scoreBoard is of type
+          0      1      2      3       4
+      [played] [win] [draw] [loose] [points] */
       int[][] scoreBoard = new int[data][5];
       for (int i = 0; i < data - 1; i++) {
         for (int j = i + 1; j < data; j++) {
@@ -57,13 +57,12 @@ public class League {
       System.out.format("%15s%15s%15s%15s%15s%15s\n", "TEAMS", "PLAYED", "WIN", "DRAW", "LOOSE", "POINTS");
       for (int i = 0; i < data; i++) {
         System.out.format("%15s", teamList[i]);
-        System.out.format("%15d%15d%15d%15d%15d\n", scoreBoard[i][0], scoreBoard[i][1], scoreBoard[i][2], scoreBoard[i][3], scoreBoard[i][4]);
+        System.out.format("%15d%15d%15d%15d%15d\n", scoreBoard[i][0], scoreBoard[i][1],
+                                                    scoreBoard[i][2], scoreBoard[i][3],
+                                                    scoreBoard[i][4]);
       }
     } catch (IOException e) {
-      System.out.println("Error");
+      System.out.print("Error");
     }
   }
-
-
-  // need to get final table to display from highest tp lowest points
 }
