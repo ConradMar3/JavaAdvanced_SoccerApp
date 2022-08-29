@@ -21,7 +21,7 @@ public class League {
         teamList[i] = input.readLine();
       }
 
-      System.out.print("-------------------------------------------------");
+      System.out.println();
 
       /* representing 2D array of team score board where each scoreBoard is of type
           0      1      2      3       4
