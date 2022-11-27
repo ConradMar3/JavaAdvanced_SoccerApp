@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49653fd5-e538-464c-bbf7-ada051b4dd03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/SoccerLeague.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/src/NoSarcasmMan_ThankYou.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/src/SoccerApp/Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/src/SoccerApp/CustomComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/src/SoccerApp/FootballClub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/src/SoccerApp/FootballManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/src/SoccerApp/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/src/SoccerApp/LeagueManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/src/SoccerApp/Match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/src/SoccerApp/PremierLeagueManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/src/SoccerApp/SoccerLeague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/src/SoccerApp/SportsClub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/src/SoccerApp/Teams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoccerApp.V2/src/Soccer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/src/SoccerApp/Soccer.txt" afterDir="false" />
-    </list>
+    <list default="true" id="49653fd5-e538-464c-bbf7-ada051b4dd03" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
