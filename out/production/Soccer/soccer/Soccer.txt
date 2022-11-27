@@ -1,6 +1,8 @@
 The Problem
 =========================================================
-Create a Java application that will calculate the ranking table for a Soccer league. A typical scoreboard will look like this at the end of the Soccer season: The output should be ordered from most to least points:
+Create a Java application that will calculate the ranking table for a Soccer league.
+A typical scoreboard will look like this at the end of the Soccer season:
+The output should be ordered from most to least points:
 
 
 1. Tarantulas2
@@ -9,7 +11,7 @@ Create a Java application that will calculate the ranking table for a Soccer lea
 4
 3. FCAwesome
 1
-4. МanchesterUnited
+4. ManchesterUnited
 1
 5. Liverpool
 1
@@ -35,10 +37,12 @@ Lions 4, Grouches 0
 The rules that must be applied after every match:
 -------------------------------------------------------------
 In this league, a draw (tie) is worth 1 point and a win is worth 3 points. A loss is worth 0 points.
-If two or more teams have the same number of points, they should have the same rank and be printed in alphabetical order (as in the tie for 3rd place in the sample data).
+If two or more teams have the same number of points, they should have the same rank
+and be printed in alphabetical order (as in the tie for 3rd place in the sample data).
 
 Please Note:
 
-Please store your project on Github.
-You must use Java SE reading into a data structure (ArrayList , HashMap and/or TreeMap) which will reflect the final scoreboard so it can just be printed .
+Please store your project on GitHub.
+You must use Java SE reading into a data structure
+(ArrayList , HashMap and/or TreeMap) which will reflect the final scoreboard, so it can just be printed .
 Remember that some data structure do not store duplicates
