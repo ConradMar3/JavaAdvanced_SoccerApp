@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaAdvanced_SoccerApp.iml" filepath="$PROJECT_DIR$/.idea/JavaAdvanced_SoccerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/SoccerLeague.iml" filepath="$PROJECT_DIR$/SoccerApp.V2/SoccerLeague/SoccerLeague.iml" />
     </modules>
   </component>
 </project>
